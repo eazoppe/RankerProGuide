@@ -12,9 +12,3 @@ RankerPro is an experience promotion bot that was made by eazoppe. It is always 
 
 ### Installation
 [The setup guide can be viewed at this link](https://github.com/eazoppe/RankerProGuide/wiki)
-
-
-### License
-```sh
-MIT
-```
