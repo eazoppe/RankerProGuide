@@ -8,14 +8,10 @@
 </p>
 
 ### About
-Finally, a service that doesn't charge its users for something so essential and simple.
-
-Auxiliary is an open-sourced Discord-ROBLOX integration bot which allows users to manage their clans through their Discord guild.
-This service is similar to a paid one; however, this service doesn't charge people and it's completely open-sourced meaning
-users can host this service by themselves--for free.
+RankerPro is an experience promotion bot that was made by eazoppe. It is always getting update but only the people that eazoppe approves may use this bot. Anyone else that tries to use this bot will not work unless their server is approved by eazoppe and eazoppe only.
 
 ### Installation
-[The installation guide can be viewed at this link](https://github.com/nishi7409/Auxiliary/wiki)
+[The setup guide can be viewed at this link](https://github.com/eazoppe/RankerProGuide/wiki)
 
 
 ### License
